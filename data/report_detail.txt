@@ -1,0 +1,2 @@
+R2|mod1|C1|lec1@apu.com|stu1@apu.com|Elephant|A01|IO|ASSIGNMENT|200.00|1000.00|20.00|E|25.00
+R2|mod1|C1|lec1@apu.com|stu1@apu.com|Elephant|A02|PrintWriter|QUIZ|75.00|100.00|75.00|B|25.00

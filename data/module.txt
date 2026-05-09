@@ -1,0 +1,2 @@
+mod1,Python,lead1@apu.com,lec1@apu.com,lec2@apu.com,STUDENT:,stu1@apu.com,stu2@apu.com
+mod2,Java,lead2@apu.com,lec3@apu.com,STUDENT:,stu1@apu.com

@@ -1,0 +1,2 @@
+C1,mod1,Friday 2pm-4pm,Class A,LECTURER:,lec1@apu.com,STUDENT:,stu1@apu.com
+C2,mod1,Tuesday 2pm-4pm,Class B,LECTURER:,lec2@apu.com

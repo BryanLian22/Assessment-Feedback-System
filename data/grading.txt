@@ -1,0 +1,8 @@
+# Letter Grade Grading System (Percentage-based)
+# Percentage = (marks / totalMarks) * 100
+# A = Excellent, B = Good, C = Satisfactory, D = Pass, E = Marginal, F = Fail
+A_MIN=80.0
+B_MIN=65.0
+C_MIN=60.0
+D_MIN=50.0
+E_MIN=5.0

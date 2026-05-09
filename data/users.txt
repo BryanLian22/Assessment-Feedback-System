@@ -1,0 +1,11 @@
+superadmin,root,63a9f0ea7bb98050796b649e85481845,AdminStaff
+Adam,lec1@apu.com,b97db2dd2f2ef6fd1ac8712081ded171,Lecturer,
+Brian,lec2@apu.com,312c1573f80dc213d2831695d0ec7ba9,Lecturer,
+Carlos,lead1@apu.com,ffa8704ab0d59b0e5de3d9459ae42abe,AcademicLeader,lec1@apu.com;lec2@apu.com;lec3@apu.com
+Donkey,lead2@apu.com,22c03464f1388f178c86686efd82a2eb,AcademicLeader,
+Elephant,stu1@apu.com,1beb31cdcc5374b64ba3007821c46bcc,Student
+Foo,stu2@apu.com,390a0458823dd1a2ec0608e252631f66,Student
+God,stu3@apu.com,f6c40d53d7bfcff74287fa4f72d7c97a,Student
+Hilton,lec3@apu.com,e293dfca3651cec99bc2975e5de06fd0,Lecturer,
+Justin,stu4@apu.com,bb43f4ad174c7b6ac17e4622a29da6da,Student
+Ian,admin@apu.com,21232f297a57a5a743894a0e4a801fc3,AdminStaff

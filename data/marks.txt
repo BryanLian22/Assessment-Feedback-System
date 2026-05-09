@@ -1,0 +1,2 @@
+A02|PrintWriter|QUIZ|lec2@apu.com|stu1@apu.com|Elephant|75.00|
+A01|IO|ASSIGNMENT|lec1@apu.com|stu1@apu.com|Elephant|200.00|bad job
